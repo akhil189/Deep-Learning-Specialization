@@ -1,2 +1,2 @@
 # deeplearning.ai-specialization
-My solutions to programming assignments for the courses in deeplearning.ai specialization of Coursera
+My solutions to programming assignments in Coursera's [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) specialization.
